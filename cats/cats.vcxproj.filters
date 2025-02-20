@@ -15,11 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="barbara.cpp">
-      <Filter>Исходные файлы</Filter>
+    <ClCompile Include="sortirovka_pusirkom.cpp">
+      <Filter>Файлы ресурсов</Filter>
     </ClCompile>
-    <ClCompile Include="FileName.cpp">
-      <Filter>Исходные файлы</Filter>
+    <ClCompile Include="sortirovka_vstavkami.cpp">
+      <Filter>Файлы ресурсов</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
